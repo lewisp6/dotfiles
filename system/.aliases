@@ -1,0 +1,7 @@
+alias ..="cd .."
+alias dl="cd ~/Downloads"
+alias dt="cd ~/Desktop"
+alias p="cd ~/Projects"
+alias p="cd ~/Sites"
+
+alias ls="ls -la"
