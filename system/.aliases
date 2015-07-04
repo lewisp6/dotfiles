@@ -8,7 +8,7 @@ alias p="cd ~/Sites"
 alias ls="ls -la"
 
 #shortcuts
-alias cl="clear"
+alias c="clear"
 alias his="history"
 
 # Show/hide hidden files in Finder
