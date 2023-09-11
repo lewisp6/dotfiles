@@ -18,5 +18,5 @@
   untracked = cyan
 [alias]
   l = log --pretty=oneline -n 20 --graph --abbrev-commit
-
   c = clone --recursive
+  pr = pull --rebase
